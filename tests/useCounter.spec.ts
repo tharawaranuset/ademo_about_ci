@@ -24,3 +24,4 @@ describe('useCounter', () => {
     });
     expect(result.current.count).toBe(5);
   });
+});
